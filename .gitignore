@@ -1,0 +1,15 @@
+# build output
+build/
+*.bin
+*.elf
+
+# backups
+*.bak
+*.rar
+_to_delete/
+
+# editors and OS
+.vscode/
+Thumbs.db
+desktop.ini
+.DS_Store
